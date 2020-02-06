@@ -1,12 +1,12 @@
-# UCSD Extension: Data Analytics using Python 
-Legally allowable public portion of the UCSD Extension course: [Data Analytics Using Python (CSE-41204)](https://extension.ucsd.edu/courses-and-programs/data-analytics-using-python). 
+# UCSD Extension: Unit Testing: Supporting Modern Software Development Methods 
+UCSD Extension course: [Unit Testing: Supporting Modern Software Development Methods  (CSE-40691)](https://extension.ucsd.edu/courses-and-programs/unit-testing-supporting-modern-software-development-methods). 
 
-Lecture Number | Topic | Content Folder | Lecture | Supplementary Items
+Lecture Number | Topic | Content Folder | Video
 --- | --- | --- | ---
-1 | Introduction| [Session 1](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_1) | [Introduction](link here) |
-1 | On Tests and Tools (powerpoint) | [Session 1](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_1) | [Jupyter Notebooks, Strings, Simple Math, and Lists](link here) |
+1 | Introduction  | [Session 1](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_1) | [Introduction](https://youtu.be/9Reee_E_rmI)
+1 | On Tests and Tools  | [Session 1](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_1) | [Jupyter Notebooks, Strings, Simple Math, and Lists](https://youtu.be/unqsJo7Xzh0)
 2 | Unit Testing Guidelines and Techniques | [Session 2](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_2) | [Tuples, Dictionaries, and Reviewing Exercises](https://youtu.be/mR14pCb_TlY)
-3 | Test Driven Development |  | 
+3 | Test Driven Development  |  | 
 4 | Mocks, Stubs, Test Spies |  | 
 5 | Things You Should Know |  |  
 6 | Getting Feedback |  |  
@@ -27,7 +27,7 @@ Lecture Number | Topic | Content Folder | Lecture | Supplementary Items
 * Hands on programming assignments that are reviewed weekly
 
 ## Course Typically Offered
-Online in Fall, Winter, Spring, and Summer.
+* Online in Fall, Winter, Spring, and Summer.
 
 ## Prerequisites
-None. General programming knowledge is helpful.
+* None. General programming knowledge is helpful.
