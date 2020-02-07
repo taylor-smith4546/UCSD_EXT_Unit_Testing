@@ -2,23 +2,39 @@
 
 ## Videos: 
 
-[Introduction to the Course and Installing JUnit](URL link here)
-
-[Java Basics](URL link here)
+[Lecture 4: Mocks, Stubs and Test Spies](URL link here)
 
 ## Assignment/Classwork:
 
-Located in the Exercises folder is are files Exercises_Session_1.ipynb.
+Quiz #4 (Blackboard)
 
-Complete numbers 0), 1), and 2). This is not graded. 
+Exercise #1:
 
+User Service Tested
+
+Write a happy-path test for the class presented below. Verify that the user gets his new password, and
+that the updateUser() method of userDAO is called.
+
+```java
+public class UserServiceImpl {
+ private UserDAO userDAO;
+ private SecurityService securityService;
+ public void assignPassword(User user) throws Exception {
+ String passwordMd5 = securityService.md5(user.getPassword());
+ user.setPassword(passwordMd5);
+ userDAO.updateUser(user);
+ }
+ public UserServiceImpl(UserDAO dao, SecurityService security) {
+ this.userDAO = dao;
+ this.securityService = security;
+ }
+}
+```
 
 ## Topics Covered: 
 
-o   Types of Developers’ Tests
+o	Introducing Mockito
 
-o	Verification & Design
+o	Types of Test Double
 
-o	Tools Introduction
-
-o	Interactions in unit tests
+o	Putting it all together

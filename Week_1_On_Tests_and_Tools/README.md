@@ -8,9 +8,9 @@
 
 ## Assignment/Classwork:
 
-Located in the Exercises folder is are files Exercises_Session_1.ipynb.
+Quiz #1 (Blackboard)
 
-Complete numbers 0), 1), and 2). This is not graded. 
+[IntelliJ Download](https://www.jetbrains.com/idea/download/#section=mac)
 
 
 ## Topics Covered: 

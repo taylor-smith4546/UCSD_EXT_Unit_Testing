@@ -2,19 +2,47 @@
 
 ## Videos: 
 
-[Lecture 2: Unit Testing Guidelines and Techniques](URL link here)
+[Lecture 3: Test Driven Development](URL link here)
 
 ## Assignment/Classwork:
 
-Located in the Exercises folder is are files Exercises_Session_1.ipynb.
+Quiz #3 (Blackboard)
 
-Complete numbers 0), 1), and 2). This is not graded. 
+Exercise #1:
+
+Password Validator
+
+When creating an account, it is often required that the password should fulfil some strength
+requirements. It should be X characters long, have at least Y digits, contain underscore, hash, and
+a mixture of lower and capital letters, etc. Your task is to write a method that will validate a given
+password. The set of rules (requirements) with which you will be verifying the passwords is up to you.
+
+Exercise #2:
+
+Regex
+
+This example requires you to write a method which, given a String, returns a list of all numbers
+taken from that String that have 3 or more digits. Table 4.1 gives some examples of expected results
+for various input strings.
+
+Expected outputs of regex method:
+
+| Input                     | Expected Output  |
+| -------------             | ---------------  |
+| abc 12                    |                  |
+| cdefg 345 12bb23          | 345              |
+| cdefg 345 12bbb33 678tt   | 345, 678         |
+
 
 
 ## Topics Covered: 
 
-o	What is a Unit Test?
+o	What is TDD?
 
-o	Interactions in unit tests
+o	When to write tests?
 
-o	Writing unit tests
+o	TDD Rhythm
+
+o	Benefits
+
+o	How to start coding TDD

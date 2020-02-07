@@ -2,23 +2,53 @@
 
 ## Videos: 
 
-[Introduction to the Course and Installing JUnit](URL link here)
-
-[Java Basics](URL link here)
+[Lecture 5: Things You Should Know](URL link here)
 
 ## Assignment/Classwork:
 
-Located in the Exercises folder is are files Exercises_Session_1.ipynb.
+Quiz #5 (Blackboard)
 
-Complete numbers 0), 1), and 2). This is not graded. 
+Exercise #1:
 
+Design Test Cases: State Testing
+
+A StringUtils class contains a reverse() method, with a signature as presented below. List test
+cases, which would verify that this method really reverses the input String!
+
+Signature of reverse method:
+
+```java
+public String reverse(String s) { ... }
+```
+
+Exercise #2:
+
+Design Test Cases: Interactions Testing
+
+UserServiceImpl class contains the assignPassword() method, as presented on Listing 7.36. The
+method uses two collaborators to successfully perform its task: userDAO and securityService.
+
+assignPassword() Method
+```java
+private UserDAO userDAO;
+private SecurityService securityService;
+public void assignPassword(User user) throws Exception {
+ String passwordMd5 = securityService.md5(user.getPassword());
+ user.setPassword(passwordMd5);
+ userDAO.updateUser(user);
+}
+```
+
+Design the test cases for this method! Please note that this time you will have to think not only
+about the input parameters (user), but also about the values returned (or exceptions thrown!) by
+securityService and userDAO.
 
 ## Topics Covered: 
 
-o   Types of Developers’ Tests
+o	What values to check?
 
-o	Verification & Design
+o	How to fail a test?
 
-o	Tools Introduction
+o	Matchers
 
-o	Interactions in unit tests
+o	Reading test data from files
