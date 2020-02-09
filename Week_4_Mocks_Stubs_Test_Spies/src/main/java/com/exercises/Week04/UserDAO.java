@@ -7,5 +7,5 @@ package com.practicalunittesting.chp05;
  * @author Tomek Kaczanowski
  */
 public interface UserDAO {
-    void updateUser(User user);
+	void updateUser(User user);
 }

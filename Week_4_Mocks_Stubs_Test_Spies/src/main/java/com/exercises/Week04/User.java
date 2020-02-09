@@ -7,7 +7,7 @@ package com.practicalunittesting.chp05;
  * @author Tomek Kaczanowski
  */
 public interface User {
-    String getPassword();
+	String getPassword();
 
-    void setPassword(String passwordMd5);
+	void setPassword(String passwordMd5);
 }

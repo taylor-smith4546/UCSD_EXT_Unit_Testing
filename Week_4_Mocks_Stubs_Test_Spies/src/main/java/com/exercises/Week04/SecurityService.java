@@ -7,5 +7,5 @@ package com.practicalunittesting.chp05;
  * @author Tomek Kaczanowski
  */
 public interface SecurityService {
-    String md5(String password);
+	String md5(String password);
 }
