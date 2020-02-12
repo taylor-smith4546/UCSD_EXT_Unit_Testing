@@ -6,7 +6,7 @@
 
 ## Assignment/Classwork:
 
-Quiz #4 (Blackboard)
+Quiz #4 (Canvas)
 
 Exercise #1:
 
@@ -38,3 +38,17 @@ o	Introducing Mockito
 o	Types of Test Double
 
 o	Putting it all together
+
+
+## Supplementary Items (Please Read!)
+
+[Mockito main reference documentation](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
+
+[TestDouble - Martin Fowler](https://martinfowler.com/bliki/TestDouble.html)
+
+[The Difference Between Mocks & Stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
+
+[The hitchhiker guide to test doubles](https://dev.to/docplannertech/the-hitchhiker-guide-to-test-doubles-53m3)
+
+[Stubbing and Mocking with Mockito and JUnit](hhttps://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit)
+

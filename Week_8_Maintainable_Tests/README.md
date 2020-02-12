@@ -6,7 +6,7 @@
 
 ## Assignment/Classwork:
 
-Quiz #8
+Quiz #8 (Canvas)
 
 Exercise #1:
 

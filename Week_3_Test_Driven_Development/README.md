@@ -6,7 +6,7 @@
 
 ## Assignment/Classwork:
 
-Quiz #3 (Blackboard)
+Quiz #3 (Canvas)
 
 Exercise #1:
 
@@ -46,3 +46,12 @@ o	TDD Rhythm
 o	Benefits
 
 o	How to start coding TDD
+
+## Supplementary Items (Please Read!)
+
+[Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+
+[Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+
+[Benefits of TDD](https://dzone.com/articles/20-benefits-of-test-driven-development)
+

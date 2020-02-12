@@ -6,7 +6,7 @@
 
 ## Assignment/Classwork:
 
-Quiz #2 (Blackboard)
+Quiz #2 (Canvas)
 
 Exercise 1:  
 
@@ -78,3 +78,16 @@ o	What is a Unit Test?
 o	Interactions in unit tests
 
 o	Writing unit tests
+
+
+## Supplementary Items (Please Read!)
+
+[JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+
+[AssertJ](https://assertj.github.io/doc/)
+
+[Unit Testing Example (Similar to one used in presentation)](http://junit.sourceforge.net/doc/testinfected/testing.htm)
+
+[DRY Principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
+[Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)

@@ -6,7 +6,7 @@
 
 ## Assignment/Classwork:
 
-Quiz #5 (Blackboard)
+Quiz #5 (Canvas)
 
 Exercise #1:
 
@@ -52,3 +52,22 @@ o	How to fail a test?
 o	Matchers
 
 o	Reading test data from files
+
+
+## Supplementary Items (Please Read!)
+
+[Boundary Values](https://en.wikipedia.org/wiki/Boundary-value_analysis)
+
+[Matchers - Hamcrest](http://hamcrest.org/JavaHamcrest/javadoc/1.3/org/hamcrest/Matchers.html)
+
+[Hamcrest Tutorial](http://hamcrest.org/JavaHamcrest/tutorial)
+
+[Mockito Matchers](https://www.softwaretestinghelp.com/mockito-matchers/)
+
+[Parameterized Tests with JUnit](https://junit.org/junit5/docs/current/user-guide/#writing-tests-parameterized-tests)
+
+[Interface ExecutorService](https://docs.oracle.com/javase/6/docs/api/java/util/concurrent/ExecutorService.html)
+
+[Time Formatting & Storage Bugs](https://en.wikipedia.org/wiki/Time_formatting_and_storage_bugs)
+
+
