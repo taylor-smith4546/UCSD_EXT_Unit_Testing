@@ -81,3 +81,10 @@ o	Test Behavior, Not Methods
 o	Complexity Leads to Bugs
 
 o	Rewriting Tests When the Code Changes
+
+
+## Supplementary Items (Please Read!)
+
+[Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask)
+
+[Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)

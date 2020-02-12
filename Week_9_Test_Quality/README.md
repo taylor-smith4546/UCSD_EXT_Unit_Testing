@@ -114,3 +114,11 @@ o	Refactor your tests
 
 o	Running tests with Maven
 
+
+## Supplementary Items (Please Read!)
+
+[Code Coverage](hhttps://en.wikipedia.org/wiki/Code_coverage)
+
+[Cobertura](http://cobertura.github.io/cobertura/)
+
+[Mark Simpson on Code Coverage (Stack Overflow)](https://stackoverflow.com/questions/695811/pitfalls-of-code-coverage/695888)

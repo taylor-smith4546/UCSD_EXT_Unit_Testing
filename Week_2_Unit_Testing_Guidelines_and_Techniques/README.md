@@ -69,7 +69,7 @@ Exercise 4:
 Master Your IDE (Not Graded)
 
 Make sure you spend some time learning about the support your IDE can give you in terms of
-effective unit testing. In particular, there are two features you should get accustomed with.
+effective unit testing.
 
 ## Topics Covered: 
 

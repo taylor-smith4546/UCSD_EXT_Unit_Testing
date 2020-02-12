@@ -44,3 +44,22 @@ o	Naming tests consistently
 o	BDD: ‘Given’, ‘When’, ‘Then’
 
 o	Writing maintainable tests
+
+
+## Supplementary Items (Please Read!)
+
+[Getting more out of your units tests](https://www.slideshare.net/wakaleo/junit-kung-fu-getting-more-out-of-your-unit-tests)
+
+[Mockito - How to write good tests](https://github.com/mockito/mockito/wiki/How-to-write-good-tests)
+
+[Mockito annotations](https://www.baeldung.com/mockito-annotations)
+
+[ObjectMother Patterns - Martin Fowler](https://www.martinfowler.com/bliki/ObjectMother.html)
+
+[Factory Patterns](https://www.tutorialspoint.com/design_pattern/factory_pattern.html)
+
+[Test Data Builders](https://projectlombok.org/features/Builder)
+
+
+
+
