@@ -82,6 +82,8 @@ o	Writing unit tests
 
 ## Supplementary Items (Please Read!)
 
+[Testing State vs Testing Interactions](https://testing.googleblog.com/2013/03/testing-on-toilet-testing-state-vs.html)
+
 [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 
 [AssertJ](https://assertj.github.io/doc/)
